@@ -1,0 +1,21 @@
+-----Default Member-----
+Name : AHAMED
+Membership ID : 2010
+Date joined : 11/11/1236
+
+-----Over 60 Member-----
+Name : JOHN
+Membership ID : 7788
+Date joined : 12/2/2020
+Age : 65
+
+-----Default Member-----
+Name : AHAMED
+Membership ID : 1234567
+Date joined : 12/2/2020
+
+-----Default Member-----
+Name : ASHFAAQ
+Membership ID : 2019394
+Date joined : 11/2/2020
+
